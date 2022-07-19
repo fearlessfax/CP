@@ -9,4 +9,4 @@ C. prefix and suffix array concept is used beautifully, during LC i was able to 
 
 
 <hr>
-LC = Live Competition
+*LC = Live Competition
