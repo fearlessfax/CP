@@ -9,5 +9,4 @@ C. prefix and suffix array concept is used beautifully, during LC i was able to 
 
 
 <hr>
-#### Footnote
-*LC = Live Competition
+LC = Live Competition
