@@ -1,7 +1,7 @@
 # CP
 ### 18-07-2022
 Binary search before LC<br>
-<b>Codeforces Round #809<b> (Div. 2)<br>
+<b>Codeforces Round #809</b> (Div. 2)<br>
 done A during LC, upsolved B and C<br>
 A. Was easy implementation question but confidence giving<br>
 B. Based on Dp on graph, (will have to take later while studing DP)<br>
