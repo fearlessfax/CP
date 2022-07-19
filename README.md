@@ -9,10 +9,10 @@ C. Prefix and suffix array concept is used beautifully, during LC i was able to 
 
 ### 19-07-2022
 1. Nothing before the LC
-2. Codeforces Round #808 (Div. 2)
-A. Was able to do it using a long brute force method of double loops, but the answer was based on a very tricky intution that, all elements must be a factor of A[1] to make all elements except first, zero. this was more of a trick question, as logically i was able to apply the brute force method. 
-B. Was based on GCD, had no idea how to find it so skipped
-C. Was based on DP, had to revise, figured out how it could be done, but was not able to implement it
+2. Codeforces Round #808 (Div. 2)<br>
+A. Was able to do it using a long brute force method of double loops, but the answer was based on a very tricky intution that, all elements must be a factor of A[1] to make all elements except first, zero. this was more of a trick question, as logically i was able to apply the brute force method. <br>
+B. Was based on GCD, had no idea how to find it so skipped<br>
+C. Was based on DP, had to revise, figured out how it could be done, but was not able to implement it<br>
 <br>
 <br>
 <hr>
