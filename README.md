@@ -23,10 +23,10 @@ solved A and B in LC, will Upsolved C<br>
 A. easy implementation, based on sorting<br>
 B. Easy observation question, but got overflow, but the logic and code were correct<br>
 C. got the brute force solution (no brainer), but got MLE<br>
-3. After LC
+3. After LC<br>
 https://codeforces.com/problemset/problem/282/A <br>
 https://codeforces.com/contest/514/problem/A<br>
-an easy way to extract each element from a integer <br>
+-->An easy way to extract each element from a integer <br>
 int n = "1243";<br>
 string str = to_string(n);<br>
 for(){<br>
@@ -34,7 +34,7 @@ for(){<br>
   int a = ar - 48;<br>
   cout<<a;<br>
 }<br>
-to extract each element, but it is in reverse order<br>
+-->To extract each element, but it is in reverse order<br>
 while (n != 0) {<br>
 		int remainder = n % 10;<br>
 		v.push_back(remainder);<br>
