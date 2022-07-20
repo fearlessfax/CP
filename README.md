@@ -19,6 +19,9 @@ C. Was based on DP, had to revise, figured out how it could be done, but was not
 1. Installed sublime text, excited to use it<br>
 nothing before LC<br>
 2. Codeforces Round #807 (Div. 2)<br>
+solved A and B in LC, Upsolved C<br>
+A. easy implementation, based on sorting<br>
+B. Easy observation question, but got overflow, but the logic and code were correct<br>
 <br>
 <br>
 <hr>
