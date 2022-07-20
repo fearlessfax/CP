@@ -22,7 +22,10 @@ nothing before LC<br>
 solved A and B in LC, Upsolved C<br>
 A. easy implementation, based on sorting<br>
 B. Easy observation question, but got overflow, but the logic and code were correct<br>
+C. got the brute force solution (no brainer), but got MLE
 <br>
 <br>
 <hr>
-*LC = Live Competition
+*LC = Live Competition<br>
+*MLE = Memory Limit Exceeded<br>
+*TLE = Time Limit Exceeded<br>
