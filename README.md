@@ -41,7 +41,16 @@ while (n != 0) {<br>
 		n /= 10;<br>
 	}<br>
 ### 23-07-2022
-have to do three contests<br>
+free day<br>
+### 24-07-2022
+free day<br>
+### 25-07-2022
+Inplementation list of striver<br>
+### 26-07-2022
+continued Inplementation list of striver<br>
+### 27-07-2022
+Continued Inplementation list of striver<br>
+
 <br>
 <br>
 <hr>
