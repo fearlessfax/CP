@@ -50,6 +50,7 @@ Inplementation list of striver<br>
 continued Inplementation list of striver<br>
 ### 27-07-2022
 Continued Inplementation list of striver<br>
+having some good progress here, getting better every day, want to finish implementation and maths ASAP, so that i can start DIV 2 C and D
 
 <br>
 <br>
