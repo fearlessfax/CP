@@ -1,4 +1,5 @@
 # CP
+## moved to https://www.notion.so/fearlessfax/Coding-9d724887b3a045fb94e2ce2000d35c11
 ### 18-07-2022
 1. Binary search before LC<br>
 2. Codeforces Round #809</b> (Div. 2)<br>
@@ -57,7 +58,7 @@ paradims in binary search<br>
 Used to find closest left, closest right and floor , roof type of problems, just an basic search with some improvisation<hr>
 
 
-# moved to https://www.notion.so/fearlessfax/Coding-9d724887b3a045fb94e2ce2000d35c11
+
 
 *LC = Live Competition<br>
 *MLE = Memory Limit Exceeded<br>
