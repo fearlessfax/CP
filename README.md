@@ -50,11 +50,15 @@ Inplementation list of striver<br>
 continued Inplementation list of striver<br>
 ### 27-07-2022
 Continued Inplementation list of striver<br>
-having some good progress here, getting better every day, want to finish implementation and maths ASAP, so that i can start DIV 2 C and D
+### 08-08-2022
+started binary search for div 2 c, still strugling with B but i think it will improve on its own<br>
+paradims in binary search<br>
+1. basic paradim<br>
+Used to find closest left, closest right and floor , roof type of problems, just an basic search with some improvisation<hr>
 
-<br>
-<br>
-<hr>
+
+# moved to https://www.notion.so/fearlessfax/Coding-9d724887b3a045fb94e2ce2000d35c11
+
 *LC = Live Competition<br>
 *MLE = Memory Limit Exceeded<br>
 *TLE = Time Limit Exceeded<br>
